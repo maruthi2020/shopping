@@ -40,7 +40,7 @@
     </style>
 </head>
 <body>
-<span><a class="close" href="home.php">&times;</a></span>
+<span><a class="close" href="index.php">&times;</a></span>
    <table class="table" cellspacing="30px" >
    <form action="" method="post">  
        <tr class="name" ><td colspan=3 align="left"><h1>Electronics</h1></td><tr>
