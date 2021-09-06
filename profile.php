@@ -44,7 +44,7 @@ div{
 </style>
 </head>
 <body bgcolor=#474e5d>
-<span><a class="close" href="home.php">&times;</a></span>
+<span><a class="close" href="index.php">&times;</a></span>
 <div><a class="pass" href="changepass.php">Change password</a></div>
 <?php
 session_start();
