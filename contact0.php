@@ -61,7 +61,7 @@ span{
 <?php
  session_start();
 ?>  
-    <span><a class="close" href="home.php">&times;</a></span>
+    <span><a class="close" href="index.php">&times;</a></span>
     <div class="contact">
         <h2 >Contact us</h2>
         <table>
