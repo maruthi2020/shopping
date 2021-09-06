@@ -41,6 +41,6 @@
     $pass=$_POST['newpass'];
     $sql ="insert into signup values('$name','$un','$pass','$date','$month','$year','$gender','$phno','$address');";
     $res =$con->query($sql);
-header("Location: home.php");
+header("Location: index.php");
 }
 ?>
