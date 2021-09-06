@@ -15,5 +15,5 @@ session_start();
  $_SESSION['username']="$usernamel";
  $sql ="insert into signup values('$name','$username','$pass','$date','$month','$year','$gender','$phno','$address');";
 $res =$con->query($sql);
-header("Location: home.php");
+header("Location: index.php");
 ?>
