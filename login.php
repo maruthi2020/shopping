@@ -20,7 +20,7 @@ echo "hello";
     
     $_SESSION['username']="$usernamel";
     echo $_SESSION['username'];
-    header("Location: home.php");
+    header("Location: index.php");
  }
   else
   {
